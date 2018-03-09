@@ -1,1 +1,21 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+lang: "en-GB"
+title: "C Pearson Consulting Ltd"
+url: "cpearson.consulting"
+github_username: "ckpearson"
+
+author:
+  name: "Clint Pearson"
+
+permalink: /:categories/:title/
+timezone: Europe/London
+
+plugins:
+#  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+paginate: 10
+paginate_path: /page:num/

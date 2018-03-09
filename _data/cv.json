@@ -1,0 +1,116 @@
+{
+    "basics": {
+        "name": "Clint Pearson",
+        "label": "Debonair Code Wrangler",
+        "email": "clint.pearson@icloud.com",
+        "summary": ".NET Developer primarily focused on C# and more recently F#",
+        "location": {
+            "city": "Wisbech",
+            "countryCode": "UK",
+            "region": "Cambridgeshire"
+        }
+    },
+
+    "work": [
+        {
+            "company": "C Pearson Consulting Ltd",
+            "position": "Director",
+            "startDate": "January 2018",
+            "endDate": "Present",
+            "summary": "Began working for myself in a contracting capacity",
+            "highlights": [
+                "Getting my first client and working on an interesting project using a language I love (F#)"
+            ]
+        },
+        {
+            "company": "Poq",
+            "position": "Software Developer",
+            "startDate": "July 2017",
+            "endDate": "September 2017",
+            "summary": "Worked across the core platform and customer-specific microservices",
+            "highlights": [
+                "Lead work early on for the deployment of a new version of a client app and all the accompanying back-end services"
+            ]
+        },
+        {
+            "company": "CornhillFX",
+            "position": "Software Developer",
+            "startDate": "February 2017",
+            "endDate": "May 2017",
+            "summary": "Worked on in-house rebuild of CRM product with a focus on microservice architecture spanning an API, in-house desktop app and client-facing MVC web app",
+            "highlights": [
+                "Development of all core components within a short timeframe",
+                "Introduction of a custom workflow/wizard system and core architecture for the product"
+            ]
+        },
+        {
+            "company": "KeyAGENT Ltd",
+            "position": "Senior Software Developer",
+            "startDate": "April 2016",
+            "endDate": "January 2017",
+            "summary": "Worked primarily on backend services and troubleshooting efforts",
+            "highlights": [
+                "Introduced robust error tracking with the aid of RayGun",
+                "Worked on in-house Angular-based web tools for analysis of photographer's work and identifying their improvement over time from photo EXIF data"
+            ]
+        },
+        {
+            "company": "KPMG",
+            "position": "Software Developer",
+            "startDate": "October 2013",
+            "endDate": "January 2016",
+            "summary": "Started as a contractor then transitioned to a permanent role; worked across a broad range of products",
+            "highlights": [
+                "Responsbile for overhaul and complete implementation of substantial functionality across a couple key products (TPCube & Trinity)"
+            ]
+        },
+        {
+            "company": "Data Interchange PLC",
+            "position": "Junior Software Developer",
+            "startDate": "November 2010",
+            "endDate": "August 2012",
+            "summary": "Worked on conversion of core data translation product from C++ to C#",
+            "highlights": [
+                "Implemented a heuristic-driven comparison tool as part of the CI pipeline to ensure parity between output from prior C++ version to the new C# version"
+            ]
+        }
+    ],
+
+    "volunteer": [
+        {
+            "organization": "Little Miracles Fenland",
+            "position": "General Volunteer",
+            "website": "http://www.littlemiraclescharity.org.uk/",
+            "startDate": "November 2017",
+            "endDate": "Present",
+            "summary": "Attending sessions and helping with fundraising activities"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "C#"
+        },
+        {
+            "name": "F#"
+        },
+        {
+            "name": "ASP.NET MVC"
+        },
+        {
+            "name": "WebAPI"
+        },
+        {
+            "name": "Entity Framework"
+        },
+        {
+            "name": "WPF"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "LINQ"
+        }
+    ]
+}
